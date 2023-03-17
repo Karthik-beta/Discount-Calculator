@@ -2,6 +2,8 @@
 
 This is a simple discount calculator that calculates the discount amount and final price based on the bill amount and discount percentage entered by the user.
 
+![Screenshot](DiscountCalculator.png)
+
 ## How to Use
 
 To use the calculator, follow these steps:
